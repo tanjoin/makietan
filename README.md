@@ -11,7 +11,6 @@ yo hubot
 
 ## Twitter
 
-
 local-settings.sh
 ```
 #!/bin/sh
